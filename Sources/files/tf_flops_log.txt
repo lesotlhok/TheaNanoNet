@@ -5,5 +5,5 @@ flops: Number of float operations. Note: Please read the implementation for the 
 
 Profile:
 node name | # float_ops
-Mul                      853.86k float_ops (100.00%, 97.57%)
-Sub                      21.29k float_ops (2.43%, 2.43%)
+Mul                      414.95k float_ops (100.00%, 96.50%)
+Sub                      15.04k float_ops (3.50%, 3.50%)
